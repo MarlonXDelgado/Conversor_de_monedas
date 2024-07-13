@@ -9,7 +9,7 @@ import com.google.gson.JsonParser;
 
 public class Main {
 
-    private static final String API_KEY = "8bfdd556954dde07d217d4c1"; // Reemplaza con tu API key
+    private static final String API_KEY = "8bfdd556954dde07d217d4c1";
     private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/" + API_KEY + "/pair/";
 
     public static void main(String[] args) {
